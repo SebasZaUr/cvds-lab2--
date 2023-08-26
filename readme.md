@@ -1,3 +1,3 @@
 Desarrollado por:
-# ##Sebastián Zamora Urrego##
-# ##Cesar Davida Amaya Gómez##
+# **Sebastián Zamora Urrego**
+# **Cesar Davida Amaya Gómez**
